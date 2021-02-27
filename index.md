@@ -3,13 +3,13 @@
 # Godsunchain3d
 
 ## Free to Play 
-[Free to Play (https://godsunchained.com/account/register?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
+[Free to Play](https://godsunchained.com/account/register?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
 
 ## Learn and Earn
 [Learn and Earn](https://godsunchained.com/learn?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
 
 ## Play and Earn
-[Play and earn(https://godsunchained.com/learn?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
+[Play and earn](https://godsunchained.com/learn?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
 
 ## Buy Packs
 [Buy packs](https://godsunchained.com/buy-packs?refcode=0x85a44535E9c4609D0A4F3DA625A08F5dB8a68b56)
