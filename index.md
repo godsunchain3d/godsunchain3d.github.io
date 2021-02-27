@@ -7,7 +7,7 @@ Chill [GodsUnchained](https://godsunchained.com/learn/spgp?referral=CTPeuVungN) 
 [Free to Play](https://godsunchained.com/account/register?referral=CTPeuVungN)
 
 ## Learn and Earn
-[Learn and Earn](https://godsunchained.com/learn?referral=CTPeuVungN)
+[Learn and Earn](https://godsunchained.com/learn/spgp?referral=CTPeuVungN)
 
 ## Play and Earn
 [Play and earn](https://godsunchained.com/learn?referral=CTPeuVungN)
