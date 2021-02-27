@@ -1,19 +1,19 @@
 ![Image](godsunchain3d.github.io/d14b4294-1bb1-4d80-abc1-7ffe145329e6-profile_image-300x300.png)
 
 # Godsunchain3d 
-Chill [GodsUnchained](https://godsunchained.com/account/register?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56) with LoFi Beats
+Chill [GodsUnchained](https://godsunchained.com/learn/spgp?referral=CTPeuVungN) with LoFi Beats
 
 ## Free to Play 
-[Free to Play](https://godsunchained.com/account/register?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
+[Free to Play](https://godsunchained.com/account/register?referral=CTPeuVungN)
 
 ## Learn and Earn
-[Learn and Earn](https://godsunchained.com/learn?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
+[Learn and Earn](https://godsunchained.com/learn?referral=CTPeuVungN)
 
 ## Play and Earn
-[Play and earn](https://godsunchained.com/learn?refcode=0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
+[Play and earn](https://godsunchained.com/learn?referral=CTPeuVungN)
 
 ## Buy Packs
-[Buy packs](https://godsunchained.com/buy-packs?refcode=0x85a44535E9c4609D0A4F3DA625A08F5dB8a68b56)
+[Buy packs](https://godsunchained.com/buy-packs?referral=CTPeuVungN)
 
 ## Card Donations
 [Card donations](https://etherscan.io/address/0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
