@@ -1,6 +1,6 @@
-# godsunchain3d
+# Godsunchain3d
 [Twitch](https://www.twitch.tv/godsunchain3d)
-### Card donations]
+### Card donations
 [Card donations](https://github.com/godsunchain3d/godsunchain3d.github.io)
 ## godsunchained
 [buy packs](https://godsunchained.com/buy-packs?refcode=0x85a44535E9c4609D0A4F3DA625A08F5dB8a68b56)
