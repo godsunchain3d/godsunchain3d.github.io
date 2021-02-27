@@ -1,6 +1,6 @@
 ![Image](godsunchain3d.github.io/d14b4294-1bb1-4d80-abc1-7ffe145329e6-profile_image-300x300.png)
 
-# Godsunchain3d 
+## Godsunchain3d 
 Chill [GodsUnchained](https://godsunchained.com/learn/spgp?referral=CTPeuVungN) with LoFi Beats
 
 ## Free to Play 
@@ -19,8 +19,10 @@ Chill [GodsUnchained](https://godsunchained.com/learn/spgp?referral=CTPeuVungN) 
 [Card donations](https://etherscan.io/address/0x85a44535e9c4609d0a4f3da625a08f5db8a68b56)
 
 ## Community
+
+### EARN TOGETHER
 If you're looking for the next game to play, Gods Unchained is giving away $20 to each person who completes some simple in-game missions. If you enter this code when signing up: CTPeuVungN I get $5 too! [CTPeuVungN](https://godsunchained.com/learn/spgp?referral=CTPeuVungN)
-## Twitch
+### Twitch
 [Twitch](https://www.twitch.tv/godsunchain3d)
 
 ### Support
